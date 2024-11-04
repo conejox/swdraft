@@ -1,0 +1,22 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+Dockerfile
+
+# Build directories
+build
+dist
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
