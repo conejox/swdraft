@@ -33,14 +33,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Multiplayer Card Game</h1>
+        <h1>Multiplayer Card  alberto</h1>
         {gameFull ? (
           <p>The game is full. Please try again later.</p>
         ) : (
           <div>
             <input
               type="text"
-              placeholder="Enter your name"
+              placeholder="Enter your name madafaca"
               value={name}
               onChange={(e) => setName(e.target.value)}
             />
